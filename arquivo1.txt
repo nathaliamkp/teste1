@@ -1,0 +1,3 @@
+Projeto de teste para aprender melhor o Git
+
+:)
